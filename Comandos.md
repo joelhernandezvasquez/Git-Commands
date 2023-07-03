@@ -22,7 +22,7 @@ git commit -am: it lets you commit without the need of doing git add . if the fi
 
 git log: it gives the info of all logs
 
-
+git add *.html: it add all the files with .html
 
 
 
