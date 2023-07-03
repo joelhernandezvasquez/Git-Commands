@@ -18,5 +18,12 @@ git branch: it tells you in which branch are you currently in.
 
 git branch -m : it changes the name of a branch. For example  git branch -m master main
 
+git commit -am: it lets you commit without the need of doing git add . if the files have been previously committed.
+
+git log: it gives the info of all logs
+
+
+
+
 
 
