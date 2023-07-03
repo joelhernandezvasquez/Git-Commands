@@ -14,3 +14,9 @@ git commit -m: it commit all the changes that are in stage.
 
 git checkout -- .: it restore your project as how it was in the previous commit so if you lost or edit things this is the command to save you.
 
+git branch: it tells you in which branch are you currently in.
+
+git branch -m : it changes the name of a branch. For example  git branch -m master main
+
+
+
