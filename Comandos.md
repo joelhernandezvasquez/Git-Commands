@@ -24,6 +24,10 @@ git log: it gives the info of all logs
 
 git add *.html: it add all the files with .html
 
+git diff: it gives an overview of changes that have been made compare to the last modification
+
+git  commit --amend -m: let you modified the message to the last commit.
+
 
 
 
