@@ -1,1 +1,4 @@
 Viajes en el tiempo with commits
+
+
+git reset --soft <hash commit>: it let you go to the specific commit and maintain the changes.
