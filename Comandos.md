@@ -28,6 +28,8 @@ git diff: it gives an overview of changes that have been made compare to the las
 
 git  commit --amend -m: let you modified the message to the last commit.
 
+git mv: let you rename a file. For example :git mv destruir-mundo.md salvar-mundo.md
+
 
 
 
