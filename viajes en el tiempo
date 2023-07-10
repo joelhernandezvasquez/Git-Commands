@@ -2,3 +2,9 @@ Viajes en el tiempo with commits
 
 
 git reset --soft <hash commit>: it let you go to the specific commit and maintain the changes.
+
+git reset --mixed <hash commit>: it let you go to the specific commit and unchanged all files in the commit
+
+git reset --hard <hash commit>:it let you go to the specific commit and destroy all changes in the commit
+
+git reflog: it gives you the list in chronological order of all commits
