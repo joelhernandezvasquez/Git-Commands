@@ -30,6 +30,8 @@ git  commit --amend -m: let you modified the message to the last commit.
 
 git mv: let you rename a file. For example :git mv destruir-mundo.md salvar-mundo.md
 
+git rm: it lets you remove a file for example: git rm salvar-mundo.md
+
 
 
 
