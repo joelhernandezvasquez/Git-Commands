@@ -1,1 +1,8 @@
+ git branch <name>: It creates a new branch
+ 
+ git checkout <name of the branch>: it switch to the branch specified
+
+ git merge <name of the branch>: It merge your branch
+ git branch -d >branch name>: It deletes a branch
+
 
