@@ -1,0 +1,3 @@
+git tag <name> : example git tag super-release
+git tag -d <name> : delete the tag
+git tag -a v1.0.0 -m "message": it create the tag version and the message
