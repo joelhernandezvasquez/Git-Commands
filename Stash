@@ -1,0 +1,3 @@
+git stash: put your working changes in a special storage but remove it from the current branch
+
+git stash list: it gives you the list of stashes
