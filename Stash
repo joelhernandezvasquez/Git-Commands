@@ -3,3 +3,5 @@ git stash: put your working changes in a special storage but remove it from the 
 git stash list: it gives you the list of stashes
 
 git stash pop: it will take your stash changes back
+
+git stash clear: it clears all your stashes
