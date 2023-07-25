@@ -1,3 +1,7 @@
 git rebase <name of the branch>: it rebase in this case it merges the commits to the branch. For example I am in the branch2
 and I want to bring the commits from master branch so it will be git rebase master.
 
+git rebase -i HEAD~4: rebase interactivo ~4 means the number of commits to see
+
+squash <commit> = use commit, but meld into the previous commit
+
