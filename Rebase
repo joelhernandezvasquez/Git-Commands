@@ -5,3 +5,4 @@ git rebase -i HEAD~4: rebase interactivo ~4 means the number of commits to see
 
 squash <commit> = use commit, but meld into the previous commit
 
+reword : git rebase -i HEAD~4 select r for reword
