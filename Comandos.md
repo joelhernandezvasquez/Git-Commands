@@ -32,6 +32,8 @@ git mv: let you rename a file. For example :git mv destruir-mundo.md salvar-mund
 
 git rm: it lets you remove a file for example: git rm salvar-mundo.md
 
+git checkout -- <file name>: it reverts the change to a specific file
+
 
 
 
