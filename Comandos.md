@@ -34,6 +34,9 @@ git rm: it lets you remove a file for example: git rm salvar-mundo.md
 
 git checkout -- <file name>: it reverts the change to a specific file
 
+git pull: it brings all the code in where your origing is set. So pretty much bring all the code.
+
+
 
 
 
