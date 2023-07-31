@@ -36,6 +36,7 @@ git checkout -- <file name>: it reverts the change to a specific file
 
 git pull: it brings all the code in where your origing is set. So pretty much bring all the code.
 
+git clone <url of the repo>: it clones a repository
 
 
 
