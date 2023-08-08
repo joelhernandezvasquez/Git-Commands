@@ -38,6 +38,8 @@ git pull: it brings all the code in where your origing is set. So pretty much br
 
 git clone <url of the repo>: it clones a repository
 
+git fetch: fetches the repo latest change.
+
 
 
 
