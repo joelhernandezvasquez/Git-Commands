@@ -4,6 +4,7 @@
  git branch -m : it changes the name of a branch. For example git branch -m master main
  git branch -d >branch name>: It deletes a branch
  git checkout -b <name of the branch>: it creates and move to the branch at the same time.
+ git remote prune origin: it delets all your local branches and references
 
 
 
